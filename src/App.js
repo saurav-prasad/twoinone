@@ -1,6 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
     <div className="bg-[#282c34] h-screen">
